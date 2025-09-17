@@ -63,6 +63,9 @@ Through this project, I gained experience with:
 + Managing colors dynamically to visualize fractal depth and patterns
 + Structuring a modular C program with separate responsibilities
 ---
+## Evaluation
+![Screenshot of my evaluation](./evaluation.png)
+---
 ## Author
 + Nitai Gauramani
   - 42 Paris – Common Core project <br>
