@@ -49,8 +49,8 @@ make
 ```
 ./fractol <fractal_name> or <without paramaters for more info>
 ```
-![Screenshot of the usage of fractal without parameters](./fractal_usage.png)
-![Video showcasing the fractals](./fractal_video.gif)
+![Screenshot of the usage of fractal without parameters](./readme_assets/fractal_usage.png)
+![Video showcasing the fractals](./readme_assets/fractal_video.gif)
 ---
 
 ### Learning Outcomes
@@ -64,7 +64,7 @@ Through this project, I gained experience with:
 + Structuring a modular C program with separate responsibilities
 ---
 ## Evaluation
-![Screenshot of my evaluation](./evaluation.png)
+![Screenshot of my evaluation](./readme_assets/evaluation.png)
 ---
 ## Author
 + Nitai Gauramani
